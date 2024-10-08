@@ -1,10 +1,10 @@
 Program
-	=
-		ID,val1
-		BINARY_LITERAL,11001100
-	=
-		ID,val2
-		BINARY_LITERAL,01010
-	=
-		ID,val3
-		BINARY_LITERAL,-101
+Statement
+ID,val1
+Binary,11001100
+Statement
+ID,val2
+Binary,01010
+Statement
+ID,val3
+Binary,-101

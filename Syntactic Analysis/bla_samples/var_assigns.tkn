@@ -1,11 +1,11 @@
-ID,this1
+this1
 =
-BINARY_LITERAL,1
+1
 WHITESPACE
-ID,_that
+_that
 =
-BINARY_LITERAL,10
+10
 WHITESPACE
-ID,an0ther
+an0ther
 =
-BINARY_LITERAL,11
+11
