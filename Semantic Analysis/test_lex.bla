@@ -1,0 +1,4 @@
+val1 = 1101
+val2 = -101
+val3 = 11
+result = val3 A val1 M val2
